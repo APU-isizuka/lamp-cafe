@@ -14,12 +14,6 @@ https://apu-isizuka.github.io/lamp-cafe/
 
 ---
 
-## ■ 画面イメージ
-
-![サイト画像](images/cafe1.jpg)
-
----
-
 ## ■ 使用技術
 - HTML
 - CSS
